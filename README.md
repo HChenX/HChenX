@@ -10,11 +10,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HChenX&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/HChenX/HChenX/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/HChenX/HChenX/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/HChenX/HChenX/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
+[![Snake Contrib](https://github.com/HChenX/HChenX/actions/workflows/Generate%20Snake.yml/badge.svg)](https://github.com/HChenX/HChenX/actions/workflows/Generate%20Snake.yml)
 
 
 <!--
