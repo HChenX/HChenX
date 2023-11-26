@@ -10,8 +10,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HChenX&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Snake Contrib](https://github.com/HChenX/HChenX/actions/workflows/Generate%20Snake.yml/badge.svg)](https://github.com/HChenX/HChenX/actions/workflows/Generate%20Snake.yml)
-
+![暗色](https://raw.githubusercontent.com/HChenX/HChenX/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![亮色](https://raw.githubusercontent.com/HChenX/HChenX/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--
 **HChenX/HChenX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
