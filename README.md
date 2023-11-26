@@ -10,7 +10,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HChenX&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### 焕晨HChen是Furry！
+### 焕晨HChen也是只Furry！
 #### 如果喜欢我就来戳我扩列吧！欢迎扩列！
 
 ![](https://raw.githubusercontent.com/HChenX/HChenX/main/HChen.jpg)
