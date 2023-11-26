@@ -13,7 +13,7 @@
 ### 焕晨HChen也是只Furry！
 #### 如果喜欢我就来戳我扩列吧！欢迎扩列！
 
-![](https://raw.githubusercontent.com/HChenX/HChenX/main/HChen.png)
+![](https://raw.githubusercontent.com/HChenX/HChenX/main/HChen.jpg)
 
 ![暗色](https://raw.githubusercontent.com/HChenX/HChenX/output/github-contribution-grid-snake-dark.svg)
 
