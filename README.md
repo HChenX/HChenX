@@ -1,10 +1,17 @@
 ## Hi 这里是焕晨HChen！ 👋
+## Hi I'm HChen! 👋
 ### 欢迎你来到焕晨的GitHub主页！
+### Welcome to HChen's GitHub homepage!
 #### 既然如此那就简单自我介绍一下叭：
-- 国籍：中国(China)。
+#### In that case, simply introduce me:
+- 国籍：中国。
+- Nationality: China.
 - 年龄&性别：保密哦。
+- Age & Gender: Confidential.
 - 是文科生！代码只是兴趣哦！
+- It's a liberal arts student, Code is just an interest!
 - 目前略懂的语言：Java，Shell。
+- Code I know a little at present: Java, Shell.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HChenX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
