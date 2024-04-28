@@ -1,4 +1,4 @@
-<!-- #### CN
+#### CN
 ## Hi 这里是焕晨HChen！ 👋
 ### 欢迎你来到焕晨的GitHub主页！
 #### 既然如此那就简单自我介绍一下叭：
@@ -15,8 +15,8 @@
 - Age & Gender: Confidential.
 - It's a liberal arts student, Code is just an interest!
 - Code I know a little at present: Java, Shell.
--->
-## NOTHING
+
+<!--## NOTHING-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HChenX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HChenX&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
