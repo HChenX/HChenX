@@ -16,6 +16,11 @@
 - It's a liberal arts student, Code is just an interest!
 - Code I know a little at present: Java, Shell.
 
+#### 扩列: 
+
+- QQ: 2091155794（焕晨）
+- Tip: 只接受 Furry 扩列！
+
 <!--## NOTHING-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HChenX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
