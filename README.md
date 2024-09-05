@@ -7,9 +7,9 @@
 - 是文科生！代码只是兴趣哦！
 - 目前略懂的语言：Java，Shell。
 
-#### 扩列: 
+#### 扩列&联系方式: 
 
-- QQ: 2091155794（焕晨）
+- Email:HChen_LXi@outlook.com
 - Tip: 只接受 Furry 扩列！
 
 #### EN
