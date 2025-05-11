@@ -8,9 +8,8 @@
 - 目前略懂的语言：Java，Shell。
 
 #### 扩列&联系方式: 
-
-- Email:HChen_LXi@outlook.com
-- Email:xhc-xh@qq.com (first choice)
+- Email: HChen_LXi@outlook.com
+- Email: xhc-xh@qq.com (first choice)
 - Tip: 只接受 Furry 扩列！
 
 #### EN
@@ -21,6 +20,10 @@
 - Age & Gender: Confidential.
 - It's a liberal arts student, Code is just an interest!
 - Code I know a little at present: Java, Shell.
+
+#### Contact information:
+- Email: HChen_LXi@outlook.com
+- Email: xhc-xh@qq.com (first choice)
 
 <!--## NOTHING-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HChenX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
