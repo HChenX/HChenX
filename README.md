@@ -10,6 +10,7 @@
 #### 扩列&联系方式: 
 
 - Email:HChen_LXi@outlook.com
+- Email:xhc-xh@qq.com (first choice)
 - Tip: 只接受 Furry 扩列！
 
 #### EN
