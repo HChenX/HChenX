@@ -8,8 +8,7 @@
 - 目前略懂的语言：Java，Shell。
 
 #### 扩列&联系方式: 
-- Email: HChen_LXi@outlook.com
-- Email: xhc-xh@qq.com (首选)
+- Email: xhc-xh@qq.com
 - Tip: 只接受 Furry 扩列！
 
 #### EN
@@ -22,8 +21,7 @@
 - Code I know a little at present: Java, Shell.
 
 #### Contact information:
-- Email: HChen_LXi@outlook.com
-- Email: xhc-xh@qq.com (first choice)
+- Email: xhc-xh@qq.com
 
 <!--## NOTHING-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HChenX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
